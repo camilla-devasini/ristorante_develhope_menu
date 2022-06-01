@@ -11,6 +11,11 @@ Bevande:
 - Thè
 - Caffè
 
+Primi piatti:
+- Linguine al pesto di taccole e anacardi con pomodori secchi
+- Gnocchi di piselli con burro alle erbe e semi di girasole
+- Pasta di mais e riso con salsa al limone e lievito alimentare
+
 Secondi piatti:
 - Spezzatino di tempeh con asparagi bianchi, fagiolini e patate al pesto
 - Polpette vegane con orzo, lupini e zucchine
