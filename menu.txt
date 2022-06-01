@@ -1,15 +1,6 @@
 Ristorante Develhope
 Tipo menù: vegano
 
-Contorni:
-- Patate
-- Verdure miste
-
-Bevande:
-- Acqua
-- Birra
-- Thè
-- Caffè
 
 Primi piatti:
 - Linguine al pesto di taccole e anacardi con pomodori secchi
@@ -23,8 +14,18 @@ Secondi piatti:
 - Spiedini di seitan, patate novelle e broccolo romanesco con yogurt
 - Tofu alla coreana
 
+Contorni:
+- Patate
+- Verdure miste
+
 Dolci:
 - Crostata vegana di frutta
 - Budino vegano
 - Gelato al cioccolato
 - Apple pie vegana
+
+Bevande:
+- Acqua
+- Birra
+- Thè
+- Caffè
