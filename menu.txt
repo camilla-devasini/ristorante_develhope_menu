@@ -10,3 +10,10 @@ Bevande:
 - Birra
 - Thè
 - Caffè
+
+Secondi piatti:
+- Spezzatino di tempeh con asparagi bianchi, fagiolini e patate al pesto
+- Polpette vegane con orzo, lupini e zucchine
+- Paté di carote arrosto e lenticchie
+- Spiedini di seitan, patate novelle e broccolo romanesco con yogurt
+- Tofu alla coreana
