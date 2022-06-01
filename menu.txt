@@ -1,6 +1,10 @@
 Ristorante Develhope
 Tipo menù: vegano
 
+Contorni:
+- Patate
+- Verdure miste
+
 Bevande:
 - Acqua
 - Birra
